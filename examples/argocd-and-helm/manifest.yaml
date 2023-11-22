@@ -11,7 +11,7 @@ spec:
   # Define the destination cluster for this application.
   destination:
     # The namespace the application should be deployed to.
-    namespace: student-X
+    namespace: student-16
     # Specify the name of the destination cluster, either name or server url.
     name: in-cluster
 
